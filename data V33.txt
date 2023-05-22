@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Playtime is a fundamental aspect of childhood that contributes significantly to a child's overall development. ","photo2":"https://iili.io/HgSIRdg.jpg"},
+  {"desc3":"encompasses a wide range of activities that promote physical, cognitive, social, and emotional growth. In this chapter, we will explore the importance of playtime in child development, ","photo3":"https://iili.io/HgSIurF.webp"},
+  {"desc4":" focusing on how different types of play contribute to various aspects of a child's growth and well-being.","photo4":"https://iili.io/HgSIT11.jpg"},
+  {"desc5":"Playtime provides ample opportunities for children to engage in physical activities, promoting their physical development and overall health. ","photo5":"https://iili.io/HgSI7kJ.jpg"},
+  {"descd":". Whether it's running, jumping, climbing, or playing sports, these activities enhance gross motor skills, strength, coordination, and balance. ","photod":"https://iili.io/HgSCmMX.jpg"}
    ]
  
 }
